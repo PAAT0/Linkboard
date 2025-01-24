@@ -9,3 +9,5 @@ https://github.com/user-attachments/assets/65b5b2a0-6107-412c-a727-4864d5401496
 
 ## How to Make Linkboard Open in a New Tab:
 
+https://github.com/user-attachments/assets/424aa8f9-f6d2-4f91-928a-18c19d18be1f
+
