@@ -11,3 +11,4 @@ https://github.com/user-attachments/assets/65b5b2a0-6107-412c-a727-4864d5401496
 
 https://github.com/user-attachments/assets/424aa8f9-f6d2-4f91-928a-18c19d18be1f
 
+This is a beta version (v1.0) More links, apps, and updates will be added in future releases. Stay tuned!
