@@ -4,6 +4,7 @@ LinkBoard is a web page designed as a quick access dashboard, allowing users to 
 LINK: https://linkboard.carrd.co/
 
 How It Works:
+
 https://github.com/user-attachments/assets/65b5b2a0-6107-412c-a727-4864d5401496
 
 
